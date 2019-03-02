@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TempConvert</string>
+    <string name="_79_f">79°F</string>
+    <string name="converted_text">Your converted temperature is...</string>
+    <string name="return_text">Return</string>
+    <string name="convert_to_farenheit">Convert to Farenheit</string>
+    <string name="convert_to_celsius">Convert to Celsius</string>
+    <string name="enter_a_temperature">Enter a temperature:</string>
+    <string name="default_temp">79</string>
+</resources>
